@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstanceDelegateInfo", "Ins
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateStateNotification", "DelegateStateNotification\DelegateStateNotification.csproj", "{84CCF23C-1558-47D9-B5D4-007A50C869A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericExistingDelegates", "DelegateAction\GenericExistingDelegates.csproj", "{F93EE143-0021-4E35-A3C0-BBE57A9DBD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEventUsage", "SimpleEventUsage\SimpleEventUsage.csproj", "{009C624E-0F4E-4A5C-83D1-ED2F0648C0E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{84CCF23C-1558-47D9-B5D4-007A50C869A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84CCF23C-1558-47D9-B5D4-007A50C869A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84CCF23C-1558-47D9-B5D4-007A50C869A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93EE143-0021-4E35-A3C0-BBE57A9DBD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93EE143-0021-4E35-A3C0-BBE57A9DBD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93EE143-0021-4E35-A3C0-BBE57A9DBD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93EE143-0021-4E35-A3C0-BBE57A9DBD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009C624E-0F4E-4A5C-83D1-ED2F0648C0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009C624E-0F4E-4A5C-83D1-ED2F0648C0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009C624E-0F4E-4A5C-83D1-ED2F0648C0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009C624E-0F4E-4A5C-83D1-ED2F0648C0E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
